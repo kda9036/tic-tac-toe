@@ -12,6 +12,7 @@ To demonstate/practice React core concepts including components, jsx, props, and
 - Building interactive UIs with state
 
 Plus:
+
 - Forwarding props to wrapped elements
 - Working with multiple JSX slots
 - Setting component types dynamically
@@ -72,6 +73,7 @@ After Selecting Rematch
 
 - Add log to keep track of wins/losses/draws
 - Ability to edit symbol in addition to player name
+- Show winning line
 
 # Notes/Run Project
 
